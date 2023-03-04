@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginWithMVVM</string>
+    <string name="pattern_api_access_key">Basic %s</string>
+    <string name="pattern_api_access_key_encoded">Basic:%s</string>
+    <string name="coworker_api_key">qzJhbZciOiJIUzI1NiIsInR5c6Ikp.eyJzdWIiOiIxMjMSI6InRvcTRTjaGVkZGFyIiwiaWF0IjoxNTE2Ks92)4kskAAQkl22f005492DIyfQ.tPQPTcQd2-wootaPUvYm7CUR4pwCLFZRjJ33qlZ_staging</string>
+
+</resources>
